@@ -9,3 +9,7 @@ can just attach them to the emitter.
 1/6 Changing the opacity as time goes on and using a color gradient can get some cool fire/explosion kind of effects. If you alternate the initial
 radii from small to large you get these cool explosion effects. The particles with large radii look like the initial explosion
 and the small radii looks like debri or embers flying off.
+
+References:
+https://dl.acm.org/doi/pdf/10.1145/280811.280996
+https://www.sfml-dev.org/tutorials/2.0/graphics-vertex-array.php
