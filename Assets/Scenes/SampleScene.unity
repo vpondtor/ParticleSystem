@@ -184,12 +184,12 @@ MonoBehaviour:
   useCullingMasks: 0
   totalParticles: 1000
   particlesPerUpdate: 1
-  coneAngle: 25
+  coneAngle: 180
   initialSpeed: 5
   initialDirection: {x: 0, y: 1, z: 0}
   initialRadius: 0.1
   initialColor: {r: 1, g: 1, b: 1, a: 0}
-  initialTimeToLive: 500
+  initialTimeToLive: 1000
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
