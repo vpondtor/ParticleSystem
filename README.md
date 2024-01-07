@@ -13,3 +13,4 @@ and the small radii looks like debri or embers flying off.
 References:
 https://dl.acm.org/doi/pdf/10.1145/280811.280996
 https://www.sfml-dev.org/tutorials/2.0/graphics-vertex-array.php
+https://gist.github.com/ashleydavis/f025c03a9221bc840a2b#file-unity-freecam
